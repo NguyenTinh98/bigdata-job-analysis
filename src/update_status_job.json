@@ -1,0 +1,11 @@
+{
+    "DB_NAME" : "job_database",
+    "DB_USER": "postgres",
+    "DB_PASSWORD": "postgres",
+    "DB_HOST": "localhost",
+    "DB_PORT": "5432",
+    "TABLE_NAME": "job",
+    "NUM_PAGES": 1,
+    "SCHEDULE": "0 0 * * *",
+    "max_active_runs": 1
+}

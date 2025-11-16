@@ -1,0 +1,12 @@
+gradio==5.41.0
+google-genai==1.50.1
+wordcloud==1.9.4
+PyPDF2==3.0.1
+psycopg2==2.9.11
+numpy==1.26.1
+plotly==5.18.0
+docx==0.2.4
+pandas==1.5.3
+openpyxl==3.1.2
+matplotlib==3.8.0
+sqlalchemy==1.4.54
